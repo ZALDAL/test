@@ -28,7 +28,7 @@ define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'rx9my4.stackhero-network.com');
 define('DB_USERNAME', 'zaldal');
 define('DB_PASSWORD', ',bYY{u7v)5n.2p~');
-define('DB_DATABASE', 'opencart_db');
+define('DB_DATABASE', 'huflit');
 define('DB_PORT', '8153');
 define('DB_PREFIX', 'oc_');
 define('DB_SSL_KEY', '');
