@@ -3,12 +3,12 @@
 define('APPLICATION', 'Admin');
 
 // HTTP
-define('HTTP_SERVER', 'https://huflit-19d970ead26a.herokuapp.com/admin/');     // <-- Thay đổi cho phù hợp
+define('HTTP_SERVER', 'https://huflit-19d970ead26a.herokuapp.com/zaldal/');     // <-- Thay đổi cho phù hợp
 define('HTTP_CATALOG', 'https://huflit-19d970ead26a.herokuapp.com/');          // <-- Thay đổi cho phù hợp
 
 // DIR
 define('DIR_OPENCART', '/app/');              // <-- Đường dẫn thực tế trên máy chủ
-define('DIR_APPLICATION', DIR_OPENCART . 'admin/');
+define('DIR_APPLICATION', DIR_OPENCART . 'zaldal/');
 define('DIR_EXTENSION', DIR_OPENCART . 'extension/');
 define('DIR_IMAGE', DIR_OPENCART . 'image/');
 define('DIR_SYSTEM', DIR_OPENCART . 'system/');
